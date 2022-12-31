@@ -1,0 +1,58 @@
+.nav{
+    height: 80px;
+    background: #441883;
+    display: flex;
+    align-items: center;
+    justify-content: space-between  ;
+}
+
+.title{
+    font-weight: 500;
+    font-size: 3em;
+    color: rgb(255, 255, 255);
+    margin-left: 2em;
+    text-decoration: none;
+}
+
+.title:hover{
+    color: rgb(238, 238, 238);
+}
+
+span{
+    font-weight: 800;
+}
+
+.cart{
+    text-decoration: none;
+    color: #fff;
+    margin-right: 3em;
+    font-size: 2.8em;
+}
+
+.cart:hover{
+    color: #FFF;
+}
+
+.AKLink{
+    text-decoration: none;
+    color: rgb(238, 238, 238);
+    margin-right: 2em;
+    font-size: 2em;
+}
+
+.AKLink:hover{
+    color: rgb(238, 238, 238);
+    border-bottom: solid white 2px;
+}
+
+.M4Link{
+    text-decoration: none;
+    color: rgb(238, 238, 238);
+    margin-right: 2em;
+    font-size: 2em;
+}
+
+.M4Link:hover{
+    color: rgb(238, 238, 238);
+    border-bottom: solid white 2px;
+}
